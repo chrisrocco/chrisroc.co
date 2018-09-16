@@ -1,0 +1,22 @@
+{
+  "name": "chrisroc.co",
+  "version": "1.0.0",
+  "description": "Personal website for myself, Chris Rocco",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "Chris",
+    "Rocco"
+  ],
+  "author": "Chris Rocco",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mailgun-js": "^0.20.0"
+  }
+}
